@@ -1,4 +1,4 @@
-# 👨‍💻 Sooraj S
+# Sooraj S
 
 Full-stack engineer specializing in **AI-driven applications**, scalable SaaS platforms, and real-time multimedia systems. Skilled in designing and deploying **intelligent assistants**, **low-latency audio/video pipelines**, and **LLM-powered tools** for production environments.
 
