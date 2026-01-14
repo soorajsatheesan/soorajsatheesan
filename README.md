@@ -1,6 +1,6 @@
 # Sooraj S
 
-<div align="center">
+<div>
 
 **Full-Stack Engineer** | AI & ML Enthusiast | Real-Time Systems Specialist
 
