@@ -2,11 +2,8 @@
 
 **Full-Stack Engineer** → AI & ML → Real-Time Systems
 
-<br>
-
 Building systems where AI meets production reliability.
 
----
 
 ## /philosophy
 
@@ -14,7 +11,6 @@ I design intelligent applications that bridge cutting-edge AI and scalable infra
 
 **Currently:** Exploring efficient LLM deployment and cross-platform development with Flutter.
 
----
 
 ## /focus
 
@@ -25,13 +21,9 @@ Full-Stack        →  Scalable SaaS architecture
 Mobile            →  Cross-platform applications
 ```
 
----
-
 ## /status
 
 **Open to collaborations** in AI, full-stack development, and real-time systems.
-
----
 
 ## /connect
 
