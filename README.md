@@ -1,11 +1,3 @@
-<div align="center">
-
-```
-    ◢◤◢◤◢◤◢◤◢◤
-```
-
-</div>
-
 # Sooraj S
 
 **Full-Stack Engineer** → AI & ML → Real-Time Systems
@@ -52,9 +44,4 @@ Mobile            →  Cross-platform applications
 <div align="center">
 
 <br>
-
-```
-    ◥◣◥◣◥◣◥◣◥◣
-```
-
 </div>
