@@ -1,20 +1,28 @@
-# Sooraj S
-
-Full-Stack Engineer — AI & ML — Real-Time Systems
-
----
-
 <div align="center">
 
-### building intelligent systems at the intersection of AI and production-ready software
+```
+    ◢◤◢◤◢◤◢◤◢◤
+```
 
 </div>
 
-## /about
+# Sooraj S
 
-Full-stack engineer specializing in AI-driven applications, scalable SaaS platforms, and real-time multimedia systems.
+**Full-Stack Engineer** → AI & ML → Real-Time Systems
 
-Currently exploring cross-platform development with Flutter and efficient LLM deployment in resource-constrained environments.
+<br>
+
+Building systems where AI meets production reliability.
+
+---
+
+## /philosophy
+
+I design intelligent applications that bridge cutting-edge AI and scalable infrastructure. Focused on solving real problems with elegant, production-ready solutions that work at scale.
+
+**Currently:** Exploring efficient LLM deployment and cross-platform development with Flutter.
+
+---
 
 ## /focus
 
@@ -25,18 +33,28 @@ Full-Stack        →  Scalable SaaS architecture
 Mobile            →  Cross-platform applications
 ```
 
+---
+
+## /status
+
+**Open to collaborations** in AI, full-stack development, and real-time systems.
+
+---
+
 ## /connect
 
 <div align="center">
 
-[linkedin](https://www.linkedin.com/in/sooraj-satheesan/) — [email](mailto:soorajsatheesan4321@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sooraj-satheesan/) • [Email](mailto:soorajsatheesan4321@gmail.com)
 
 </div>
 
----
-
 <div align="center">
 
-*open to collaborations*
+<br>
+
+```
+    ◥◣◥◣◥◣◥◣◥◣
+```
 
 </div>
