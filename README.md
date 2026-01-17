@@ -1,4 +1,4 @@
-# Sooraj S
+# Sooraj Satheesan
 
 **Full-Stack Engineer** → AI & ML → Real-Time Systems
 
@@ -42,6 +42,4 @@ Mobile            →  Cross-platform applications
 </div>
 
 <div align="center">
-
-<br>
 </div>
