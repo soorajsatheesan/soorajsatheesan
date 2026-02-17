@@ -1,4 +1,4 @@
-# Hi, my name is Sooraj Satheesan
+# Hi, I'm Sooraj
 
 Bengaluru - India | Eleutheromaniac | Full Stack Developer | AI Engineer
 
@@ -15,3 +15,5 @@ Bengaluru - India | Eleutheromaniac | Full Stack Developer | AI Engineer
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Mobile](https://img.shields.io/badge/Mobile-0A66C2?style=for-the-badge&logo=android&logoColor=white)
 ![Web](https://img.shields.io/badge/Web-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+Vibe coding my needs
